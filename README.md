@@ -1,2 +1,2 @@
-# Nitda_BlockChain_Traininf
+# Nitda_BlockChain_Training
 Nitda_BlockChain_Traininf
